@@ -1,0 +1,18 @@
+body {
+    margin: 75px;
+    background-color: rgb(rgb(212, 210, 210));
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+    flex-direction: column;
+}
+header {
+    background-color: lightslategrey;
+    
+}
+h1 {
+    text-align: center;
+
+}
